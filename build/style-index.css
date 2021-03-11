@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-mu-card {
+  background-color: #fff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  border: 1px solid #cbcece;
+  border-radius: 0.25rem;
+  padding: 1.5rem;
+}
+
+.wp-block-create-block-mu-card .wp-block-buttons {
+  margin-top: 1rem;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

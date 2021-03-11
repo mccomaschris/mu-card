@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/mu-card",
+	"title": "MU Card",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Card block based on Marshall University's card component.",
+	"textdomain": "mu-card",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
